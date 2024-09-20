@@ -1,42 +1,41 @@
+PS C:\Users\gurme> python -u "d:\SeleniumProj\Selenium_Proj\lib.py"
+
  ***********Test Case-1********** 
 
 
-DevTools listening on ws://127.0.0.1:60570/devtools/browser/9a9126b6-5968-41c8-83c7-ab88f469696d
+DevTools listening on ws://127.0.0.1:49321/devtools/browser/aebaf1cf-57b9-4513-bde0-26e0d2fe5e46
 Booking Confirmed
 Test Case 1:  Pass
 
- ***********Test Case-2**********
+ ***********Test Case-2********** 
 
 
-DevTools listening on ws://127.0.0.1:60611/devtools/browser/0f891a8f-8e2d-4403-ba80-c82a56e7c6ba
+DevTools listening on ws://127.0.0.1:49363/devtools/browser/e7165418-fa90-4836-8d36-d6619558f2f1
 Booking Confirmed
 Test Case 2:  Fail
 
- ***********Test Case-3**********
+ ***********Test Case-3********** 
 
 
-DevTools listening on ws://127.0.0.1:60649/devtools/browser/1265f0bd-4820-4a16-b89c-c1bec90b50f9
+DevTools listening on ws://127.0.0.1:49400/devtools/browser/6f9f5a73-6ac3-4652-bcd9-19614b7f9f49
 Booking Confirmed
 
-DevTools listening on ws://127.0.0.1:60689/devtools/browser/6a7e5bf1-f82a-4e10-a273-483913405c46
+DevTools listening on ws://127.0.0.1:49707/devtools/browser/45974fd9-fe15-423e-890c-f582d310a4b1
+Created TensorFlow Lite XNNPACK delegate for CPU.
 Room already booked or some other issue.
+Test Case 3:  Fail
 
-DevTools listening on ws://127.0.0.1:60725/devtools/browser/0624da66-3855-4c2c-9a17-3f95fc1ec26c
-Room already booked or some other issue.
-Test Case 3:  Pass
-
- ***********Test Case-4**********
+ ***********Test Case-4********** 
 
 
-DevTools listening on ws://127.0.0.1:60762/devtools/browser/8b2dce34-6a36-47c0-8a8f-616a4cd7f49b
+DevTools listening on ws://127.0.0.1:49752/devtools/browser/f2a0a885-ad6f-4451-8572-2931b89b3945
+Created TensorFlow Lite XNNPACK delegate for CPU.
 Room already booked or some other issue.
 Test Case 4:  Pass
 
- ***********Test Case-5********** 
+ ***********Test Case-5**********
 
 
-DevTools listening on ws://127.0.0.1:60800/devtools/browser/bbc5d1a0-aecd-4559-ba00-43e3901bbf8b
+DevTools listening on ws://127.0.0.1:49791/devtools/browser/12ca9ea9-b181-4647-9642-a60855c3823b
 Booking Confirmed
 Test Case 5:  Fail
-PS D:\Selenium> 
-

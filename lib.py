@@ -80,19 +80,19 @@ def room_booking(first_name, last_name, email):
 
 def test_case_1():
     # General case to book available room
-    result = room_booking("Gurmehak", "Kaur", "gkuppal8@myseneca.ca")
+    result = room_booking("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
     print("Test Case 1: ", "Pass" if result else "Fail")
 
 def test_case_2():
     #using non-existent email
-    result = room_booking("First", "Student", "notexist2@myseneca.ca")
+    result = room_booking("First", "Student", "notexistant@myseneca.ca")
     print("Test Case 2: ", "Pass" if not result else "Fail")
 
 def test_case_3():
     # Trying to book more than 2 hours for one student (against rules)
-    room_booking("Gurmehak", "Kaur", "karora03@myseneca.ca")
-    room_booking("Khushi", "Arora", "karora03@myseneca.ca")
-    result = room_booking("Khushi", "Arora", "karora03@myseneca.ca")
+    room_booking("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
+    room_booking("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
+    result = ("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
     print("Test Case 3: ", "Pass" if not result else "Fail")
 
 def test_case_4():
