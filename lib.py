@@ -80,29 +80,29 @@ def room_booking(first_name, last_name, email):
 
 def test_case_1():
     # General case to book available room
-    result = room_booking("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
+    result = room_booking("Gurmehak", "Kaur", "gkuppal14@myseneca.ca")
     print("Test Case 1: ", "Pass" if result else "Fail")
 
 def test_case_2():
     #using non-existent email
-    result = room_booking("First", "Student", "notexistant@myseneca.ca")
+    result = room_booking("First", "Student", "nonexstant@myseneca.ca")
     print("Test Case 2: ", "Pass" if not result else "Fail")
 
 def test_case_3():
     # Trying to book more than 2 hours for one student (against rules)
-    room_booking("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
-    room_booking("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
-    result = ("Gurmehak", "Kaur", "gkuppal4@myseneca.ca")
+    room_booking("Gurmehak", "Kaur", "gkuppal15@myseneca.ca")
+    room_booking("Gurmehak", "Kaur", "gkuppal15@myseneca.ca")
+    result = ("Gurmehak", "Kaur", "gkuppal15@myseneca.ca")
     print("Test Case 3: ", "Pass" if not result else "Fail")
 
 def test_case_4():
     #trying to book with a non-seneca email
-    result = room_booking("Second", "Student", "student04@gmail.com")
+    result = room_booking("Second", "Student", "student14@gmail.com")
     print("Test Case 4: ", "Pass" if not result else "Fail")
 
 def test_case_5():
     #trying to use special characters in first and last name
-    result = room_booking("Inv@l!d", "n@m#", "student05@myseneca.ca")
+    result = room_booking("Inv@l!d", "n@m#", "student15@myseneca.ca")
     print("Test Case 5: ", "Pass" if not result else "Fail")
 
 

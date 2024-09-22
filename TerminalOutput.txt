@@ -1,34 +1,34 @@
-PS C:\Users\gurme> python -u "d:\SeleniumProj\Selenium_Proj\lib.py"
+PS D:\SeleniumProj\Selenium_Proj> python -u "d:\SeleniumProj\Selenium_Proj\lib.py"
 
  ***********Test Case-1********** 
 
 
-DevTools listening on ws://127.0.0.1:49321/devtools/browser/aebaf1cf-57b9-4513-bde0-26e0d2fe5e46
+DevTools listening on ws://127.0.0.1:61057/devtools/browser/be2dfa37-fe1c-4c29-bd2c-90bd9a01b60a
 Booking Confirmed
 Test Case 1:  Pass
 
  ***********Test Case-2********** 
 
 
-DevTools listening on ws://127.0.0.1:49363/devtools/browser/e7165418-fa90-4836-8d36-d6619558f2f1
+DevTools listening on ws://127.0.0.1:61093/devtools/browser/71ab4c14-f04c-489c-97ec-495d28a7dabc
 Booking Confirmed
 Test Case 2:  Fail
 
  ***********Test Case-3********** 
 
-
-DevTools listening on ws://127.0.0.1:49400/devtools/browser/6f9f5a73-6ac3-4652-bcd9-19614b7f9f49
+DevTools listening on ws://127.0.0.1:61131/devtools/browser/547244d7-29bc-4aa4-b913-7aa2bb746563
+Booking Confirmed
 Booking Confirmed
 
-DevTools listening on ws://127.0.0.1:49707/devtools/browser/45974fd9-fe15-423e-890c-f582d310a4b1
-Created TensorFlow Lite XNNPACK delegate for CPU.
+
+DevTools listening on ws://127.0.0.1:61167/devtools/browser/d40e48a7-028a-485c-8157-0b8d44b7ceb4
 Room already booked or some other issue.
-Test Case 3:  Fail
+Test Case 3:  Pass
 
- ***********Test Case-4********** 
+ ***********Test Case-4**********
 
 
-DevTools listening on ws://127.0.0.1:49752/devtools/browser/f2a0a885-ad6f-4451-8572-2931b89b3945
+DevTools listening on ws://127.0.0.1:61203/devtools/browser/2a5f8028-36f4-4f50-84c7-6a4cdc2d6272
 Created TensorFlow Lite XNNPACK delegate for CPU.
 Room already booked or some other issue.
 Test Case 4:  Pass
@@ -36,6 +36,6 @@ Test Case 4:  Pass
  ***********Test Case-5**********
 
 
-DevTools listening on ws://127.0.0.1:49791/devtools/browser/12ca9ea9-b181-4647-9642-a60855c3823b
+DevTools listening on ws://127.0.0.1:61251/devtools/browser/1a064aaf-2674-4272-93fe-28a39aff1d60
 Booking Confirmed
 Test Case 5:  Fail
