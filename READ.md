@@ -11,6 +11,9 @@ After learning Selenium, I wanted to get some hands on practice and then Seneca'
 ## Traceability Matrix
 ![image](https://github.com/user-attachments/assets/24f5790f-6637-438c-9318-4fed7cd2ea86)
 
+## Impact
+The two bugs which led to uncontrolled booking:
+### 1.special characters in names and invalid college email addresses
 
 ## Steps to get started
 **Clone the repository:
