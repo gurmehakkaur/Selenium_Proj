@@ -8,6 +8,9 @@ After learning Selenium, I wanted to get some hands on practice and then Seneca'
 ## Test Descriptions
 ![image](https://github.com/user-attachments/assets/f057aae8-5922-4505-b030-1f1dcff78222)
 
+## Traceability Matrix
+![image](https://github.com/user-attachments/assets/24f5790f-6637-438c-9318-4fed7cd2ea86)
+
 
 ## Steps to get started
 **Clone the repository:
