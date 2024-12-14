@@ -12,8 +12,11 @@ After learning Selenium, I wanted to get some hands on practice and then Seneca'
 ![image](https://github.com/user-attachments/assets/24f5790f-6637-438c-9318-4fed7cd2ea86)
 
 ## Impact
-The two bugs which led to uncontrolled booking:
-### 1.special characters in names and invalid college email addresses
+The two bugs led to uncontrolled booking as the system accepted:
+### 1. Special characters in names 
+### 2. Invalid college email addresses
+
+These were reported to college and are now fixed.
 
 ## Steps to get started
 **Clone the repository:
