@@ -5,6 +5,10 @@ After learning Selenium, I wanted to get some hands on practice and then Seneca'
 ### Full runtime video is also available in this repository as ExecutionVideo.mp4
 ![image](https://github.com/user-attachments/assets/fcca9070-1bbf-401f-8d63-bc69c9eae1d6)
 
+## Test Descriptions
+![image](https://github.com/user-attachments/assets/f057aae8-5922-4505-b030-1f1dcff78222)
+
+
 ## Steps to get started
 **Clone the repository:
 git clone https://github.com/gurmehakkaur/Selenium_Proj
